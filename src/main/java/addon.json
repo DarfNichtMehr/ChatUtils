@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "ChatUtils",
+  "mainClass": "de.darfnichtmehr.ChatUtils",
+  "description": "Copy chat messages with a simple click and keep your chat clean by combining duplicate messages. Also works for the second chat.",
+  "version": 1,
+  "author": "DarfNichtMehr",
+  "category": "2",
+  "icon": "https://i.imgur.com/nxigpSN.png"
+}
